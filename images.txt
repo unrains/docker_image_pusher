@@ -12,7 +12,7 @@ ddsderek/mediaservertools
 linyuan0213/nas-tools
 linyuan0213/nas-tools-ocr
 #BT/PT下载工具
-linuxserver/transmission
+linuxserver/transmissioni
 nevinee/qbittorrent
 #辅种工具
 iyuucn/iyuuplus
@@ -20,6 +20,7 @@ iyuucn/iyuuplus-dev
 Iswl/vertex-base
 #网络工具
 nginx
+gdy666/lucky
 networkstatic/iperf3
 zerotier/zerotier
 #自动化工具
